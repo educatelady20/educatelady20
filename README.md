@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @educatelady20 and I love all things Data! 
 - 👀 I've completed the Google Data Analytics Professional Certificate
-- 🌱 I’m currently learning mySQL 
+- 🌱 I’m currently mastering SQL after mastering Excel!
 - 💞️ I’m looking to collaborate on portfolio prjoects 
 - 📫 How to reach me - Twitter @educatedlady20
 
