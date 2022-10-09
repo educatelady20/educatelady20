@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @educatelady20 and I love all things Data! 
-- 👀 I’m interested in Data Analytics
+- 👀 I've completed the Google Data Analytics Professional Certificate
 - 🌱 I’m currently learning mySQL 
 - 💞️ I’m looking to collaborate on portfolio prjoects 
 - 📫 How to reach me - Twitter @educatedlady20
